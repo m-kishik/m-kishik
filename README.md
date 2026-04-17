@@ -1,98 +1,61 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+a+Software+Engineer;Crafting+Scalable+Architectures;Turning+Ideas+into+Reality;Always+Learning,+Always+Coding" alt="Typing SVG" />
-</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=m-kishik%20%7C%20Software%20Engineer&fontSize=60&animation=twinkling&fontAlignY=35&desc=Pushing%20the%20limits%20of%20code.&descAlignY=55&descAlign=50" alt="Header" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&pause=1000&color=39D353&center=true&vCenter=true&width=800&lines=System.out.println(%22Hello+World!%22);Architecting+Scalable+Systems;Destroying+Bugs,+Creating+Features;Living+on+the+Terminal+%E2%9A%A1" alt="Typing SVG" />
 
 <br/>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" alt="Waving Hand" /> <b>Welcome to my GitHub profile!</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" alt="Waving Hand" />
-</div>
-
-<div align="center">
-  <a href="https://your-portfolio-link.com">
-    <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=Web&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://twitter.com/YOUR_X_ID">
-    <img src="https://img.shields.io/badge/-X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-  </a>
-  <a href="https://qiita.com/YOUR_QIITA_ID">
-    <img src="https://img.shields.io/badge/-Qiita-55C500?style=for-the-badge&logo=qiita&logoColor=white" alt="Qiita" />
-  </a>
-  <a href="https://zenn.dev/YOUR_ZENN_ID">
-    <img src="https://img.shields.io/badge/-Zenn-3EA8FF?style=for-the-badge&logo=zenn&logoColor=white" alt="Zenn" />
-  </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_ID">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</div>
-
----
-
-## 🚀 About Me
-
-私は、パフォーマンスが高くスケーラブルなシステムの構築に情熱を注ぐバックエンド/クラウドエンジニアです。常に最新の技術をキャッチアップし、モダンなアーキテクチャを用いた課題解決を得意としています。
-
-- 🔭 **Currently working on:** マイクロサービスアーキテクチャの設計 / OSSへのコントリビュート
-- 🌱 **Currently learning:** Rust / Kubernetes / AI・MLのインフラ統合
-- 👯 **Looking to collaborate on:** オープンソースプロジェクトやハッカソン
-- 💬 **Ask me about:** Go, React, AWS, Docker, CI/CDパイプライン
-- ⚡ **Fun fact:** バグの夢を見て深夜に飛び起きて修正したことがあります。
-
----
-
-## 💻 Tech Stack
-
-### Frontend
-<div align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,sass,figma&perline=10" alt="Frontend Skills" />
-  </a>
-</div>
-
-### Backend
-<div align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,rust,python,java,nodejs,express,nestjs,graphql,postgres,mysql,redis,mongodb&perline=12" alt="Backend Skills" />
-  </a>
-</div>
-
-### DevOps / Cloud / Tools
-<div align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,githubactions,git,linux,ubuntu,bash,vim&perline=10" alt="DevOps Skills" />
-  </a>
-</div>
-
----
-
-## 🏆 GitHub Trophies & Achievements
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=m-kishik&theme=radical&row=1&column=7&margin-w=15&no-frame=true" alt="GitHub Trophies" />
-  </a>
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=m-kishik&show_icons=true&theme=radical&count_private=true&hide_border=true&title_color=3B82F6" alt="GitHub Stats" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=m-kishik&theme=radical&hide_border=true&title_color=3B82F6" alt="GitHub Streak" width="48%" />
-</div>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Hacker GIF"/>
 
 <br/>
+<br/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-kishik&layout=compact&theme=radical&hide_border=true&title_color=3B82F6" alt="Top Languages" width="50%" />
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=m-kishik&theme=onedark&row=1&column=7&margin-w=15&no-frame=true&no-bg=true" alt="Trophies" />
+</a>
+
 </div>
 
 ---
 
-## 🐍 Contributions Graph Animation
+<div align="center">
+  <h2>⚡ TECHNOLOGIES & ARSENAL ⚡</h2>
+  <p><b>■ Languages / Core</b></p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,go,java,py,rust,ts,js,html,css,wasm&perline=12" alt="Languages" />
+  <br/><br/>
+  <p><b>■ Frameworks / Libraries</b></p>
+  <img src="https://skillicons.dev/icons?i=react,vue,nextjs,nuxtjs,tailwind,sass,nodejs,express,nestjs,spring,django,flask&perline=12" alt="Frameworks" />
+  <br/><br/>
+  <p><b>■ DevOps / Cloud / OS</b></p>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,linux,ubuntu,nginx,git,github,gitlab,bash&perline=12" alt="DevOps" />
+  <br/><br/>
+  <p><b>■ Database / Architecture / Tools</b></p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,sqlite,kafka,rabbitmq,elasticsearch,graphql,prisma,figma,vim&perline=12" alt="DB & Tools" />
+</div>
+
+---
 
 <div align="center">
+  <h2>🔥 GITHUB ANALYTICS 🔥</h2>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=m-kishik&theme=tokyo-night&bg_color=0D1117&color=39D353&line=39D353&point=FFFFFF&hide_border=true" alt="Activity Graph" width="100%" />
+
+  <br/><br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=m-kishik&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=39D353&icon_color=39D353&bg_color=0D1117" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-kishik&layout=compact&theme=tokyonight&hide_border=true&title_color=39D353&bg_color=0D1117" alt="Top Languages" width="48%" />
+
+  <br/><br/>
+
+  <img src="https://streak-stats.demolab.com?user=m-kishik&theme=tokyonight&hide_border=true&title_color=39D353&fire=39D353&ring=39D353&background=0D1117" alt="GitHub Streak" width="60%" />
+
+</div>
+
+---
+
+<div align="center">
+  <h2>🐍 CONTRIBUTIONS GRID SNAKE 🐍</h2>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/m-kishik/m-kishik/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/m-kishik/m-kishik/output/github-contribution-grid-snake.svg">
@@ -100,6 +63,8 @@
   </picture>
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="150px" alt="Coding Animation" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" alt="Footer" />
 </div>
